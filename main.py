@@ -3,10 +3,10 @@ import discord
 import json
 import os
 
-SERVER_ID = 
-CATEGORY_ID = 
+SERVER_ID = 1204010822502850580
+CATEGORY_ID = 1204031320452235314
 
-ROLE_ID = 
+ROLE_ID = 1204053915658752081
 
 # 🔴・Started  Project Name
 # 🔵・Finished Project Name
